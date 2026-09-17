@@ -1,7 +1,7 @@
 # TerinfoAlkProba2026
 Első próba repozitóriumom.
 
-## Gyömölcsök
+## Gyömölcs fák
 
 * Alma
 * Banán
@@ -18,3 +18,8 @@ Nézd meg az éneket a gyümölcsökről [itt](https://www.youtube.com/watch?v=V
 
 * 0228/16
 * 0228/17
+
+## Fák öntözése
+* Hétfő 19:00
+* Szerda 19:00
+* Péntek 19:00
