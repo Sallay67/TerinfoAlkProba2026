@@ -1,12 +1,12 @@
 # TerinfoAlkProba2026
 Első próba repozitóriumom.
 
-## Gyömölcsök
+## Gyömölcs fák
 
 * Alma
 * Banán
 * Körte
-* Narancs ez a színe?
+* Narancs 
 * Szilva
 * Cseresznye
 
