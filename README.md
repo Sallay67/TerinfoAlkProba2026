@@ -6,7 +6,7 @@ Első próba repozitóriumom.
 * Alma
 * Banán
 * Körte
-* Narancs ez a színe?
+* Narancs
 * Szilva
 * Cseresznye
 
